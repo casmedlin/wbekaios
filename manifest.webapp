@@ -21,6 +21,9 @@
       "description": "This website’s mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages",
     }
   },
+  "permissions": {
+  "serviceworker":{}
+}  
   "default_locale": "en-US",
   "orientation": [ "portrait-primary" ]
 }  "developer": {
