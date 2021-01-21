@@ -1,37 +1,28 @@
 {
-  "version": "1",
+  "version": "1.0.0",
   "name": "Weekly Biblical Encouragement",
+  "description": "This apps mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages",
+  "type": "web",
   "launch_path": "/",
-  "description": "This website’s mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages",
   "icons": {
-    "16": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/16.png",
-    "32": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/32.png",
-    "48": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/48.png",
-    "60": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/60.png",
-    "64": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/64.png",
-    "90": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/90.png",
-    "120": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/120.png",
-    "128": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/128.png"
+    "56": "/images/icons/icon-56x56.png",
+    "112": "/images/icons/icon-112x112.png",
+    "224": "/images/icons/icon-224x224.png"
   },
-   "type": "web",
-  "fullscreen": "true",
+  "developer": {
+    "name": "Cas Medlin",
+    "url": "http://casmedlin.dreamhosters.com"
+  },
+  "permissions": {
+    "serviceworker":{}
+  },
+  "cursor": "true",
   "locales": {
     "en-US": {
       "name": "Weekly Biblical Encouragement",
-      "description": "This website’s mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages",
+      "subtitle": "Weekly Biblical Encouragement is a weekly blog",
+      "description": "This apps mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages"
     }
   },
-  "permissions": {
-  "serviceworker":{}
-}  
-  "default_locale": "en-US",
-  "orientation": [ "portrait-primary" ]
-}  "developer": {
-    "name": "CAS MEDLIN",
-    "url": "https://casmedlin.dreamhosters.com/"
-  },
-  "installs_allowed_from": [
-    "*"
-  ],
-  "cursor": true
+  "default_locale": "en-US"
 }
