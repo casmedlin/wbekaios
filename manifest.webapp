@@ -4,14 +4,14 @@
   "launch_path": "https://weeklybiblicalencouragement.com/",
   "description": "KaiOS hosted app with example use cases to get started",
   "icons": {
-    "16": "/kaios-hosted-sample/images/logo16.png",
-    "32": "/kaios-hosted-sample/images/logo32.png",
-    "48": "/kaios-hosted-sample/images/logo48.png",
-    "60": "/kaios-hosted-sample/images/logo60.png",
-    "64": "/kaios-hosted-sample/images/logo64.png",
-    "90": "/kaios-hosted-sample/images/logo90.png",
-    "120": "/kaios-hosted-sample/images/logo120.png",
-    "128": "/kaios-hosted-sample/images/logo128.png"
+    "16": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/16.png",
+    "32": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/32.png",
+    "48": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/48.png",
+    "60": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/60.png",
+    "64": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/64.png",
+    "90": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/90.png",
+    "120": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/120.png",
+    "128": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/128.png"
   },
   "developer": {
     "name": "CAS MEDLIN",
