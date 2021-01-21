@@ -13,13 +13,22 @@
     "120": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/120.png",
     "128": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/128.png"
   },
-  "developer": {
+   "type": "web",
+  "fullscreen": "true",
+  "locales": {
+    "en-US": {
+      "name": "Weekly Biblical Encouragement",
+      "description": "This website’s mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages",
+    }
+  },
+  "default_locale": "en-US",
+  "orientation": [ "portrait-primary" ]
+}  "developer": {
     "name": "CAS MEDLIN",
     "url": "https://casmedlin.dreamhosters.com/"
   },
   "installs_allowed_from": [
     "*"
   ],
-  "default_locale": "en",
   "cursor": true
 }
