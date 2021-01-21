@@ -1,7 +1,7 @@
 {
   "version": "1",
   "name": "Weekly Biblical Encouragement",
-  "launch_path": "https://weeklybiblicalencouragement.com/",
+  "launch_path": "/index.html",
   "description": "This website’s mission is to encourage the viewer to draw closer to God through weekly reading, inspirational verses, songs, Images and messages",
   "icons": {
     "16": "https://raw.githubusercontent.com/casmedlin/wbekaios/master/16.png",
